@@ -18,6 +18,11 @@
             <version>${drools.version}</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.zhu</groupId>
+            <artifactId>facts</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
